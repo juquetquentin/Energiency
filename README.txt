@@ -9,7 +9,7 @@ export CPLUS_INCLUDE_PATH="/home/juquet_q/.froot/include/"
 
 Si ce n'est pas le cas il faudra le faire vous même.
 
-Si la complilation ou l'execution rencontre des erreurs vérifier bien que vous avez le paquet libsfml-dev et que la liblapin est bien installée.
+Si la complilation ou l'execution rencontre des erreurs vérifiez bien que vous avez le paquet libsfml-dev et que la liblapin est bien installée.
 
 Enfin si un problème survient merci de me contacter par mail :
 quentin.juquet@epitech.eu
