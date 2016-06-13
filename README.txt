@@ -2,7 +2,7 @@ Pour l'installation de la liblapin :
 
 - Lancer le script shell install.sh se trouvant dans le dossier liblapin1.7_fix
 
-- Celui ajoutera automatiquement les 3 lignes d'export suivantes :
+- Celui ajoutera automatiquement les 3 lignes d'export suivantes à votre bashrc :
 export LD_LIBRARY_PATH="/home/juquet_q/.froot/lib/"
 export C_INCLUDE_PATH="/home/juquet_q/.froot/include/"
 export CPLUS_INCLUDE_PATH="/home/juquet_q/.froot/include/"
